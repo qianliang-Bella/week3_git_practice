@@ -7,3 +7,9 @@ def greet(name):
     return f"Welcome, {name}!"
 
 print(greet("Bella"))
+
+print("Testing Git")
+
+def add(a, b):
+    return a + b
+print(add(10, 20))
