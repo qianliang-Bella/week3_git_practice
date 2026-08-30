@@ -1,4 +1,4 @@
-name = "Qian"
+name = "Alice"
 
 print("Hello", name)
 print("My first terminal Python program!")
