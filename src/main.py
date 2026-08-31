@@ -23,3 +23,7 @@ def multiply(a, b):
 print(multiply(5, 4))
 
 print("Updated from GitHub")
+
+def divide(a, b):
+    return a / b
+print(divide(10, 2))
